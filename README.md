@@ -67,8 +67,8 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudh-muthusundaram&show_icons=true&theme=dracula" alt="Anirudh's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-muthusundaram&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhmsu&show_icons=true&theme=dracula" alt="Anirudh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmsu&layout=compact&theme=dracula" alt="Top Languages">
 </p>
 
 ---
