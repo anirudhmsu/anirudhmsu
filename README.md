@@ -9,16 +9,13 @@
 
 ## About Me
 
-I am a recent Master's graduate in Computer Science and Engineering from the University at Buffalo, specializing in the practical application of technology to address real-world challenges. My expertise encompasses Generative AI, Machine Learning, Chain of Thoughts Prompting, and LLM Customization (FT and RLHF with Reasoning).
+Software Engineer focused on **AI systems** — agent tooling (MCP/FastMCP), schema-driven backends (Pydantic), and LLM evaluation/fine-tuning. I build **schema-driven AI agent tooling** and **LLM training/evaluation pipelines**, especially at the intersection of **MCP/FastMCP**, **backend systems**, and **blockchain data/RPC**.
 
-- 🔭 I’m currently working on AI Agents centered on Blockchain applications.
-- 🌱 I’m currently learning more about Langgraph and Langchain.
-- 👯 I’m looking to collaborate on projects involving AI Agents and LLM Development.
-- 🤔 I’m looking for help with optimizing AI-infused search systems.
-- 💬 Ask me about: Web Apps, Machine Learning, AI Agents, MCP, Blockchain & NFTs.
-- 📫 How to reach me: anirudhms247@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I recently fine-tuned the Qwen3‑1.7B language model on a physics reasoning benchmark using GRPO and Chain‑of‑Thought prompting, achieving significant gains in symbolic accuracy and reasoning trace quality.
+- 🧱 **Building:** MCP tool servers + validated schema registries (Pydantic + pytest) for reliable agent workflows
+- ⚡ **LLM Work:** Fine-tuning + evaluation (GRPO/RLHF-style reward shaping, vLLM inference pipelines)
+- 🔎 **Interests:** Agent reliability (validation, retries, tracing), eval harnesses, data quality & contracts
+- 🌱 **Exploring:** LangGraph and LangChain for multi-agent orchestration
+- 💬 **Ask me about:** AI Agents, MCP, LLM fine-tuning, Blockchain & NFTs
 
 ---
 
@@ -64,16 +61,7 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhmsu&show_icons=true&theme=dracula" alt="Anirudh's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmsu&layout=compact&theme=dracula" alt="Top Languages">
-</p>
-
----
-
-## 🏆 My Projects
+## 🏆 Featured Projects
 
 ### **AI-Powered Crypto Agent & MCP Server with Supabase Integration**
 - Developed a real-time cryptocurrency monitoring agent using Pydantic-AI and a local Llama 3.2 model, capable of fetching, analyzing, and validating market data from CoinGecko.
@@ -93,7 +81,16 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 
 ---
 
-## 📝 My Research
+## 🛠️ Tech Stack
+
+**Languages:** Python, Go, SQL, JavaScript
+**ML/LLM:** PyTorch, Transformers, HuggingFace, TensorFlow, GRPO/RLHF-style training
+**Backend:** FastAPI, Flask, Pydantic, REST/JSON-RPC, GraphQL
+**Infra/Data:** Docker, Kubernetes, GCP, MongoDB, Kafka, Spark, Hadoop
+
+---
+
+## 📝 Publications
 
 - **SIITR: A Semantic Infused Intelligent Approach for Tag Recommendation**
   - A tag recommendation system using similarity measures and SVM, achieving 94.48% accuracy.
@@ -102,3 +99,14 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 - **ISBRNM: Integrative Approach for Semantically Driven Blog Recommendation Using Novel Measures**
   - A blog recommendation system using NLP, GRUs, and optimization techniques, with 95.85% accuracy.
   - *Presented at ICDTA 2022 and published in Springer.* : https://link.springer.com/chapter/10.1007/978-3-031-02447-4_2
+ 
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhmsu&show_icons=true&theme=dracula" alt="Anirudh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmsu&layout=compact&theme=dracula" alt="Top Languages">
+</p>
+
+---
