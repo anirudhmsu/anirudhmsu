@@ -105,7 +105,9 @@ Software Engineer focused on **AI systems** — agent tooling (MCP/FastMCP), sch
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhmsu&show_icons=true&theme=dracula" alt="Anirudh's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhmsu&theme=dracula" alt="GitHub Streak">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmsu&layout=compact&theme=dracula" alt="Top Languages">
 </p>
 
